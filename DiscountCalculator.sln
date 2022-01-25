@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscountCalculator", "DiscountCalculator\DiscountCalculator.csproj", "{2932360B-DB19-46DA-A3FA-AA1616249F89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2932360B-DB19-46DA-A3FA-AA1616249F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2932360B-DB19-46DA-A3FA-AA1616249F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2932360B-DB19-46DA-A3FA-AA1616249F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2932360B-DB19-46DA-A3FA-AA1616249F89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA988716-C494-4228-8419-C5FF4D2C1B16}
+	EndGlobalSection
+EndGlobal
